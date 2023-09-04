@@ -1,4 +1,4 @@
-# basic tic tac toe game using python 
+# basic tic tac toe game usingpython 
 
 import os    
 import time    
